@@ -1,0 +1,15 @@
+/* Добавьте это в style.css */
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #333;
+}
+
+.logo {
+    width: 40px; /* Можно изменить размер */
+    height: 40px;
+    margin-right: 10px;
+}
